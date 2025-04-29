@@ -2,7 +2,7 @@
   "mf": "Auth",
   "api": "https://kpim-mid-dev.urbreath.tech/api/v1",
   "keycloak": {
-    "url": "https://idm.dev-digital-enabler.eng.it/auth",
+    "url": "https://keycloak-dev.urbreath.tech/auth",
     "clientId": "kpi-manager-app",
     "enabled": false
   }
