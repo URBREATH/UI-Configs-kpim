@@ -1,6 +1,6 @@
 {
   "mf": "KPIM Editor",
-  "api": "http://localhost:3000/api/v1",
+  "api": "https://kpim-mid-dev.urbreath.tech/api/v1",
   "unitSymbols": {
     "METER": "m",
     "KILOMETER": "km",
