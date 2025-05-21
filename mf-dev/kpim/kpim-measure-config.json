@@ -1,4 +1,4 @@
 {
   "mf": "KPIM Measure",
-  "api": "https://kpim-mid-dev.urbreath.tech/api/v1"
+  "api": "http://localhost:3000/api/v1"
 }
