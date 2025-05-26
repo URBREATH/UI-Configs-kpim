@@ -1,4 +1,4 @@
 {
   "mf": "KPIM Compare",
-  "api": "https://kpim-mid-dev.urbreath.tech/api/v1"
+  "api": "http://127.0.0.1:9230/api/v1"
 }
