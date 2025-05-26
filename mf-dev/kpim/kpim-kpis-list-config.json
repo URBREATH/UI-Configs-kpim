@@ -1,5 +1,5 @@
 {
   "mf": "KPIs List",
-  "api": "http://localhost::9230/api/v1",
+  "api": "http://localhost:9230/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
