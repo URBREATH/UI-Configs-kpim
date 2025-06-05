@@ -2,7 +2,7 @@
   "mf": "Auth",
   "api": "http://localhost:3000/api/v1",
   "keycloak": {
-    "url": "https://keycloak-dev.urbreath.tech/auth",
+    "url": "http://localhost:8085/auth",
     "clientId": "kpi-manager-app",
     "enabled": false
   }
