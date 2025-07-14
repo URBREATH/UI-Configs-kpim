@@ -1,7 +1,8 @@
 {
   "mf": "Sidebar",
   "api": "http://localhost:9230/api/v1",
-  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+  "storageImgs":"https://github.com/GiovaLuc/UrbreathImgs",
+  "oldImg": "https://storage.digital-enabler.eng.it/imgs",
   "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-dev/common/services.json",
   "links": [
     {
@@ -23,6 +24,7 @@
     "enabled": false
   },
   "logo": "/DataMashupEditor.svg",
-  "miniLogo": "/de-mini.svg",
+  "miniLogo":"/logo.png",
+  "oldLogo": "/de-mini.svg",
   "showServicesMenu": false
 }
