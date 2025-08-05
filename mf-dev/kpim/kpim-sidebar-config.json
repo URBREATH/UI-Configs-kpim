@@ -1,8 +1,8 @@
 {
   "mf": "Sidebar",
   "api": "https://kpim-mid-dev.urbreath.tech/api/v1",
-  "storageImgs": "https://raw.githubusercontent.com/GiovaLuc/UrbreathImgs",
-  "oldImg": "https://storage.digital-enabler.eng.it/imgs",
+  "newImgs": "https://raw.githubusercontent.com/GiovaLuc/UrbreathImgs",
+  "storageImg": "https://storage.digital-enabler.eng.it/imgs",
   "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-dev/common/services.json",
   "links": [
     {
@@ -24,7 +24,7 @@
     "enabled": false
   },
   "logo": "/DataMashupEditor.svg",
-  "miniLogo": "/main/logo.png",
-  "oldLogo": "/de-mini.svg",
+  "newLogo": "/main/logo.png",
+  "miniLogo": "/de-mini.svg",
   "showServicesMenu": false
 }
