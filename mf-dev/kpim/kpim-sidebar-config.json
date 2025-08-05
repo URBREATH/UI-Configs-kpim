@@ -2,7 +2,7 @@
   "mf": "Sidebar",
   "api": "https://kpim-mid-dev.urbreath.tech/api/v1",
   "newImgs": "https://raw.githubusercontent.com/GiovaLuc/UrbreathImgs",
-  "storageImg": "https://storage.digital-enabler.eng.it/imgs",
+  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
   "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-dev/common/services.json",
   "links": [
     {
