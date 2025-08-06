@@ -23,7 +23,7 @@
   "keycloak": {
     "enabled": false
   },
-  "logo": "/main/extendedLogo.svg",
+  "logo": "/main/extendedLogo.png",
   "miniLogo": "/main/logo.png",
   "oldLogo": "/de-mini.svg",
   "showServicesMenu": false
