@@ -11,7 +11,7 @@
     "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@2.0.3/app.js",
     "@digital-enabler/demf-kpis-list": "https://demf-kpim-list-dev.urbreath.tech/js/app.js",
     "@digital-enabler/demf-kpim-editor-control-panel": "https://demf-kpim-editor-control-panel-dev.urbreath.tech/js/app.js",
-    "@digital-enabler/demf-kpim-editor-definition": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-kpim-editor-definition@0.1.8/app.js",
+    "@digital-enabler/demf-kpim-editor-definition": "https://demf-kpim-editor-definition-dev.urbreath.tech/js/app.js",
     "@digital-enabler/demf-kpim-editor-formula": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-kpim-editor-formula@0.1.9/app.js",
     "@digital-enabler/demf-kpim-editor-dashboard": "https://demf-kpim-editor-dashboard-dev.urbreath.tech/js/app.js",
     "@digital-enabler/demf-kpim-editor-summary": "https://demf-kpim-editor-summary.urbreath.tech/js/app.js",
