@@ -8,7 +8,7 @@
     "@digital-enabler/auth": "https://cdn.jsdelivr.net/npm/@digital-enabler/auth@2.0.3/app.js",
     "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@2.0.2/app.js",
     "@digital-enabler/sidebar": "https://demf-sidebar-dev.urbreath.tech/js/app.js",
-    "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@2.0.3/app.js",
+    "@digital-enabler/footer": "https://demf-footer-dev.urbreath.tech/js/app.js",
     "@digital-enabler/demf-kpis-list": "https://demf-kpim-list-dev.urbreath.tech/js/app.js",
     "@digital-enabler/demf-kpim-editor-control-panel": "https://demf-kpim-editor-control-panel-dev.urbreath.tech/js/app.js",
     "@digital-enabler/demf-kpim-editor-definition": "https://demf-kpim-editor-definition-dev.urbreath.tech/js/app.js",
