@@ -3,7 +3,7 @@
   "api": "https://kpim-mid-dev.urbreath.tech/api/v1",
   "keycloak": {
     "url": "https://keycloak-dev.urbreath.tech/auth",
-    "clientId": "kpi-manager-app",
+    "clientId": "urbreath",
     "enabled": false
   }
 }
