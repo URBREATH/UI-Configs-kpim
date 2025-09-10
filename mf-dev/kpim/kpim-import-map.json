@@ -17,7 +17,7 @@
     "@digital-enabler/demf-kpim-editor-summary": "https://demf-kpim-editor-summary.urbreath.tech/js/app.js?v=2",
     "@digital-enabler/demf-kpim-measures-list": "https://demf-kpim-measures-list-dev.urbreath.tech/js/app.js?v=2",
     "@digital-enabler/demf-kpim-measure": "https://demf-kpim-measure-dev.urbreath.tech/js/app.js?v=2",
-    "@digital-enabler/kpim-gui": "https://kpimanager-dev.urbreath.tech/demf-kpim-gui.js",
+    "@digital-enabler/kpim-gui": "https://kpim-dev.urbreath.tech/demf-kpim-gui.js",
     "@digital-enabler/demf-kpim-compare": "https://demf-kpim-compare-dev.urbreath.tech/js/app.js"
   }
 }
