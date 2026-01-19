@@ -6,9 +6,8 @@
     "clientId": "urbreath",
     "enabled": false
   }
-}
 
-/* Local settings{
+  "configurazione locale": {
   "mf": "Auth",
   "api": "http://localhost:9230/api/v1",
   "keycloak": {
@@ -16,4 +15,7 @@
     "clientId": "kpi-manager-app",
     "enabled": false
   }
-}*/
+}
+}
+
+
