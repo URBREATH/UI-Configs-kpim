@@ -1,17 +1,12 @@
 {
    "mf": "Auth",
   "api": "http://localhost:9230/api/v1",
-   "keycloak": {
-    "url": "https://keycloak-dev.urbreath.tech/auth",
-    "clientId": "urbreath",
-    "enabled": false
-      }
-  "localSettings":{"keycloak": {
+  "keycloak": {
     "url": "http://localhost:8085/auth",
     "clientId": "kpi-manager-app",
     "enabled": false
   }
-     }
+     
      
 }
 
