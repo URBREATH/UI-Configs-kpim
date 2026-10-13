@@ -1,7 +1,8 @@
 {
   "mf": "Sidebar",
   "api": "http://localhost:3000/api/v1",
-  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+ "storageImgs": "https://raw.githubusercontent.com/GiovaLuc/UrbreathImgs",
+  "oldImgs": "https://storage.digital-enabler.eng.it/imgs",
   "jsonTools": "https://raw.githubusercontent.com/URBREATH/UI-Configs-kpim/localSettingsRita/mf-dev/common/services.json",
   "links": [
     {
@@ -27,7 +28,8 @@
   "keycloak": {
     "enabled": false
   },
-  "logo": "/DataMashupEditor.svg",
+  "logo": "/main/extendedLogo.png",
+  "miniLogo": "/main/logo.png",
   "miniLogo": "/de-mini.svg",
   "showServicesMenu": false
 }
