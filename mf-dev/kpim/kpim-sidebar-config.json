@@ -1,7 +1,7 @@
 {
   "mf": "Sidebar",
   "api": "http://localhost:3000/api/v1",
- "storageImgs": "https://raw.githubusercontent.com/GiovaLuc/UrbreathImgs",
+ "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
   "oldImgs": "https://storage.digital-enabler.eng.it/imgs",
   "jsonTools": "https://raw.githubusercontent.com/URBREATH/UI-Configs-kpim/localSettingsRita/mf-dev/common/services.json",
   "links": [
