@@ -1,0 +1,5 @@
+{
+  "mf": "KPIM Publish",
+  "api": "https://kpim-mid-dev/api/v1",
+  "apiHistoricalData": "https://kpim-mid-dev.urbreath.tech/api/v1/urbreath-auth/historical-data/query/all?measurement="
+}
