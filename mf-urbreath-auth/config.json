@@ -24,7 +24,7 @@
       "measuresList": "/kpim/kpim-measures-list-config.json",
       "kpimMeasure": "/kpim/kpim-measure-config.json",
       "compare": "/kpim/kpim-compare-config.json",
-      "kpimPublish": "/kpim/kpim-publish-config.json",
+      "publishKpi": "/kpim/kpim-publish-config.json",
     }
   }
 }
