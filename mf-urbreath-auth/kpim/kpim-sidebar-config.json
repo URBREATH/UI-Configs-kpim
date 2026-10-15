@@ -14,11 +14,6 @@
       "title": "labels.measures",
       "icon": "mdi-ruler",
       "link": "/measures"
-    },
-    {
-      "title": "labels.public-kpis",
-      "icon": "mdi-ruler",
-      "link": "/public/kpis"
     }
   ],
   "favorites": {
